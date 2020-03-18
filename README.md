@@ -8,6 +8,8 @@ to be related to COVID-19. While this feed is useful for hunting for COVID-19 sc
 there are likely legitimate sites in this data.
 
 Reference: [1984.sh/](https://1984.sh/covid19-domains-feed.txt) | [@dustyfresh](https://twitter.com/dustyfresh/status/1238925029057925122)
+
+Samples:
 ![ ](https://pbs.twimg.com/media/ETKuVlIXQAAttwv?format=jpg&name=large)
 
 ![](https://pbs.twimg.com/media/ETO0L5eWAAIAEnY?format=jpg&name=large)
