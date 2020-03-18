@@ -1,4 +1,4 @@
-# MISP-Feed
+# Covid19 Domain Feed
 
 Feed of hostnames found in certificate transparency logs that are related to the COVID-19 pandemic.
 
@@ -8,3 +8,4 @@ to be related to COVID-19. While this feed is useful for hunting for COVID-19 sc
 there are likely legitimate sites in this data.
 
 Reference: [1984.sh/](https://1984.sh/covid19-domains-feed.txt)
+![ ](https://pbs.twimg.com/media/ETKuVlIXQAAttwv?format=jpg&name=large)
