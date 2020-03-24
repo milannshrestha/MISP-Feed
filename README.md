@@ -1,4 +1,8 @@
-# Covid19 Domain Feed
+# Covid19 IOC Feed
+
+If you use [MISP](https://www.misp-project.org/), and gathering IOCs for COVID19, here is the .json file which you can direcltly import to your MISP instance. 
+
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 
 Feed of hostnames found in certificate transparency logs that are related to the COVID-19 pandemic.
 
